@@ -5,20 +5,20 @@
 ### Members
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/03do-new30"><img src="https://avatars.githubusercontent.com/03do-new30" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/nnayoung"><img src="https://avatars.githubusercontent.com/nnayoung" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/Yeon-woo-123"><img src="https://avatars.githubusercontent.com/Yeon-woo-123" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/seungsudot"><img src="https://avatars.githubusercontent.com/seungsudot" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/subinsss"><img src="https://avatars.githubusercontent.com/subinsss" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/hyunwoobaik"><img src="https://avatars.githubusercontent.com/hyunwoobaik" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/nnayoung"><img src="https://avatars.githubusercontent.com/nnayoung" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/03do-new30"><img src="https://avatars.githubusercontent.com/03do-new30" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/03do-new30"><b>👑 03do-new30</b></td>
+    <td align="center"><a href="https://github.com/nnayoung"><b>nnayoung</b></td>
     <td align="center"><a href="https://github.com/Yeon-woo-123"><b>Yeon-woo-123</b></td>
     <td align="center"><a href="https://github.com/seungsudot"><b>seungsudot</b></td>
     <td align="center"><a href="https://github.com/subinsss"><b>subinsss</b></td>
     <td align="center"><a href="https://github.com/hyunwoobaik"><b>hyunwoobaik</b></td>
-    <td align="center"><a href="https://github.com/nnayoung"><b>nnayoung</b></td>
+    <td align="center"><a href="https://github.com/03do-new30"><b>03do-new30</b></td>
   </tr>
 </table>
 
